@@ -3,4 +3,4 @@ project(FBTiku)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(FBTiku main.cpp)
+add_executable(FBTiku main.cpp FbTiku.h)
