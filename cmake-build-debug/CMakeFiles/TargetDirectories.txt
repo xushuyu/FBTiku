@@ -1,0 +1,3 @@
+C:/Users/gary/CLionProjects/FBTiku/cmake-build-debug/CMakeFiles/FBTiku.dir
+C:/Users/gary/CLionProjects/FBTiku/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/gary/CLionProjects/FBTiku/cmake-build-debug/CMakeFiles/rebuild_cache.dir

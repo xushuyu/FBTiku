@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/gary/CLionProjects/FBTiku/main.cpp
+vector
+-
+string
+-
+map
+-
+stack
+-
+unordered_map
+-
+iostream
+-
+algorithm
+-
+
