@@ -6,6 +6,22 @@
 
 #IncludeRegexTransform: 
 
+C:/Users/gary/CLionProjects/FBTiku/FbTiku.h
+vector
+-
+string
+-
+map
+-
+stack
+-
+unordered_map
+-
+iostream
+-
+algorithm
+-
+
 C:/Users/gary/CLionProjects/FBTiku/main.cpp
 vector
 -
@@ -21,4 +37,6 @@ iostream
 -
 algorithm
 -
+FbTiku.h
+C:/Users/gary/CLionProjects/FBTiku/FbTiku.h
 

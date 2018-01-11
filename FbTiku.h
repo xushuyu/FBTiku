@@ -27,6 +27,18 @@ struct TreeNode
     }
 };
 
+class BinarySearch{
+
+public:
+    static int search(int target, const vector<int> & nums);
+    static int upper(int target, const vector<int> & nums);
+    static int lower(int target, const vector<int> & nums);
+
+    static void testSearch();
+
+};
+
 class FirstOne{
     vector<int> firstOne(vector<vector<int>> board);
+    void test();
 };
